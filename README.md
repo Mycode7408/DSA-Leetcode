@@ -2,7 +2,7 @@
 
 # **Array**<br /> <br />
 **Easy** <br />
-   https://leetcode.com/submissions/detail/759557712/  <br/>
+Build array from permutation: https://leetcode.com/problems/build-array-from-permutation/  <br/>
 concatation of array : https://leetcode.com/problems/concatenation-of-array/submissions/ <br/>
 find first and last position of element: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/ <br/>
 runnign sum of 1d array: https://leetcode.com/problems/running-sum-of-1d-array/submissions/   <br/>
