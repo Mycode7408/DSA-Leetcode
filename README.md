@@ -7,6 +7,7 @@ concatation of array : https://leetcode.com/problems/concatenation-of-array/subm
 find first and last position of element: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/ <br/>
 runnign sum of 1d array: https://leetcode.com/problems/running-sum-of-1d-array/submissions/   <br/>
 number of good pairs : https://leetcode.com/problems/number-of-good-pairs/submissions/   <br/>
+Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/
  
 
 
