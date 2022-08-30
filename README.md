@@ -9,6 +9,9 @@ runnign sum of 1d array: https://leetcode.com/problems/running-sum-of-1d-array/s
 number of good pairs : https://leetcode.com/problems/number-of-good-pairs/submissions/   <br/>
 Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/
  
+ 
+**Medium** <br />
+Rotate Image: https://leetcode.com/problems/rotate-image/submissions/
 
 
 
