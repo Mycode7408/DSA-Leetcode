@@ -11,7 +11,8 @@ Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplic
  
  
 **Medium** <br />
-Rotate Image: https://leetcode.com/problems/rotate-image/submissions/
+Rotate Image: https://leetcode.com/problems/rotate-image/submissions/ <br/>
+1706. Where Will the Ball Fall java :https://leetcode.com/problems/where-will-the-ball-fall/submissions/
 
 
 
