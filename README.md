@@ -29,3 +29,13 @@ Two sum:https://leetcode.com/problems/two-sum/submissions/
 
 **Medium** <br />
 Number of Island: https://leetcode.com/problems/number-of-islands/submissions/
+
+# **BFS**<br /> <br />
+
+**Easy** <br />
+
+
+**Medium** <br />
+433 Minimum Genetic Mutation:https://leetcode.com/problems/minimum-genetic-mutation/submissions/
+
+
