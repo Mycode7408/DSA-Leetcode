@@ -7,7 +7,7 @@ find first and last position of element: https://leetcode.com/problems/find-firs
 runnign sum of 1d array: https://leetcode.com/problems/running-sum-of-1d-array/submissions/   <br/>
 number of good pairs : https://leetcode.com/problems/number-of-good-pairs/submissions/   <br/>
 Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/ <br/>
-Word-Pattern: https://leetcode.com/problems/word-pattern/submissions/869209328/
+Word-Pattern: https://leetcode.com/problems/word-pattern/submissions/869209328/  <br/>
 Rotate Image: https://leetcode.com/problems/rotate-image/submissions/ <br/>
 1706. Where Will the Ball Fall java :https://leetcode.com/problems/where-will-the-ball-fall/submissions/
 
