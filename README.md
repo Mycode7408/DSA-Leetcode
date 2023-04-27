@@ -23,10 +23,10 @@ Two sum:https://leetcode.com/problems/two-sum/submissions/
 Number of Island: https://leetcode.com/problems/number-of-islands/submissions/
 
 # **BFS**<br /> <br />
-433 Minimum Genetic Mutation:https://leetcode.com/problems/minimum-genetic-mutation/submissions/
+433 Minimum Genetic Mutation: https://leetcode.com/problems/minimum-genetic-mutation/submissions/
 
 
 # **Sorting**<br /> <br />
-
+268. Missing Number: https://leetcode.com/problems/missing-number/
 
 
